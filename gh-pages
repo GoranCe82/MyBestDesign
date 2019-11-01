@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <header>
+       <h1>Front end development</h1>
+   </header>
+      <section class="container">
+            <div class="row">
+             <div class="col-4 prva">
+                 <h2><strong>HTML</strong></h2>
+                 <img src="img/html.png" alt="" >
+                 <h3>Struktura weba</h3>
+             </div>
+             <div class="col-4 prva">
+                 <h2><strong>CSS</strong></h2>
+                 <img src="img/css.png" alt="">
+                 <h3>Stilizacija weba</h3>
+             </div>
+             <div class="col-4 prva">
+                 <h2><strong>JC</strong></h2>
+                 <img src="img/js.png" alt="">
+                 <h3>Interakcija weba</h3>
+             </div>
+         </div> 
+           <div class="row">
+               <col-12>
+                   <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, quasi.</h2>
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad placeat, laudantium vero. Eaque ipsum doloremque architecto, cum quibusdam voluptatum fugit impedit earum quod quisquam laborum dolor, veritatis explicabo optio sequi repellendus maiores molestiae iste accusamus, accusantium. Dolore nobis quasi, nulla!</p>
+               </col-12>
+           </div>
+           <div class="row sredina">
+                   <div class="col-9">
+                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat earum non, impedit quod repellat voluptatem maiores eius illo, esse sit delectus numquam quam autem perspiciatis unde. Cumque saepe, voluptas laudantium rerum vero officiis eius ipsam mollitia quidem, fugit delectus impedit tempora provident pariatur! Accusantium, ex debitis earum consectetur accusamus voluptatem, illum quae non perferendis quisquam beatae iusto! Rem voluptatibus quod enim architecto doloremque, odit eos quisquam assumenda autem fugit tenetur, fuga. Sequi, a! Ab necessitatibus nihil cumque quisquam corporis similique natus praesentium, vero id. Ut magni beatae porro aliquid quaerat, harum, facilis placeat illum, sit animi unde soluta maxime. Magni!
+                       </p>
+                 
+                   </div> 
+                   <div class="col-3">
+                      <img src="img/pozadinska.png" alt="">
+                   </div>
+                   
+           </div>
+           <div class="row treci">
+                <col-4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, voluptas quaerat assumenda iusto cum cumque molestias debitis blanditiis obcaecati in sequi maxime ad ab rem modi, ipsum numquam accusantium tempora iure pariatur voluptate explicabo. Dolorem voluptates veritatis voluptatum eum! Excepturi sed laborum aspernatur inventore consectetur sequi ipsum a alias provident!</p>
+                </col-4>
+                <div class="col-4">
+                    <img src="img/slika-u-sredini.png" alt="">
+                </div>
+                <col-4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus optio iure ratione sapiente repellendus facere, praesentium excepturi error aspernatur natus. Mollitia voluptatum explicabo culpa aut fuga sapiente aspernatur facere doloremque totam possimus, maxime, necessitatibus adipisci quia quidem id voluptas cum vitae nobis, sint voluptatibus? Vitae, optio harum eum dignissimos quo.</p>
+                </col-4>
+           </div>
+            <div class="row cetvrti">
+                <div class="col-7">
+                    <img src="img/responsive.png" alt="">
+                </div>
+                <div class="col-5">
+                    <h4>Responsiv design</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium magnam aperiam, itaque, voluptates voluptatum nemo illo numquam repudiandae magni eos quis libero distinctio quisquam odit suscipit corrupti fugit, neque nisi adipisci. Similique fugit corporis recusandae doloribus reprehenderit obcaecati accusantium voluptatibus illum hic, optio iste aliquam. Consectetur quo maiores deserunt. Assumenda?</p>
+                </div>
+            </div>
+            <div class="row peti">
+                <col-12>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil, quae. Voluptatum a quam quisquam soluta corporis aspernatur, quia, consequatur ab, officia eligendi commodi recusandae incidunt vitae dignissimos sit sequi! Cupiditate.</p>
+                </col-12>
+            </div>
+             <div class="row sesti">
+                     <div class="col-3">
+                         <h5>CSS</h5>
+                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate aliquid doloribus obcaecati, molestias ipsum iste laudantium eligendi rerum praesentium odit!</p>
+                     </div>
+                      <div class="col-3">
+                        <img src="img/css3.png" alt="">
+                     </div>
+                         <div class="col-3">
+                         <h5>CSS resursi</h5>
+                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate aliquid doloribus obcaecati, molestias ipsum iste laudantium eligendi rerum praesentium odit!</p>
+                     </div>
+                         <div class="col-3">
+                         <h5>CSS  resursi</h5>
+                         <ul>
+                             <li>Link 1</li>
+                             <li>Link 2</li>
+                             <li>Link 3</li>
+                             <li>Link 4</li>
+                             <li>Link 5</li>
+                         </ul>
+                     </div>
+                 </div>
+       
+       
+       
+       
+       
+       
+       
+      </section>
+    
+</body>
+</html>
